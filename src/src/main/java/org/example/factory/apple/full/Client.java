@@ -1,9 +1,9 @@
-package org.example.factory.apple.HalfSimple;
+package org.example.factory.apple.full;
 
-import org.example.factory.apple.HalfSimple.Factory.IPhone11ProFactory;
-import org.example.factory.apple.HalfSimple.Factory.IPhoneFactory;
-import org.example.factory.apple.HalfSimple.Factory.IPhoneXFactory;
-import org.example.factory.apple.HalfSimple.model.IPhone;
+import org.example.factory.apple.full.Factory.IPhone11ProFactory;
+import org.example.factory.apple.full.Factory.IPhoneFactory;
+import org.example.factory.apple.full.Factory.IPhoneXFactory;
+import org.example.factory.apple.full.model.IPhone;
 
 public class Client {
 	

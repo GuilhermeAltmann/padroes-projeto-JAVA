@@ -1,6 +1,6 @@
-package org.example.factory.apple.HalfSimple.Factory;
+package org.example.factory.apple.full.Factory;
 
-import org.example.factory.apple.HalfSimple.model.IPhone;
+import org.example.factory.apple.full.model.IPhone;
 
 public abstract class IPhoneFactory {
     public IPhone orderIPhone() {
